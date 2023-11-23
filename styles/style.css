@@ -6,6 +6,7 @@
 
 html {
   block-size: 100%;
+  height: 800px;
 }
 
 .page {
@@ -333,7 +334,7 @@ input {
   text-underline-offset: 2px;
   cursor: pointer;
  }
- 
+
  .content__list-item:active {
   border: 1px solid #FFF;
  }
