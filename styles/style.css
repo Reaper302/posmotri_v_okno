@@ -11,7 +11,7 @@ html {
 .page {
   display: flex;
   align-items: center;
-  max-height: 800px;
+  height: 100%;
   inline-size: 1200px;
   block-size: 100%;
   margin: auto;
