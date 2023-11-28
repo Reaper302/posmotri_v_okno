@@ -165,7 +165,7 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::before {
     line-height: normal;
     width: 194px;
     min-height: 34px;
-    background: transparent;
+    background:#545050;
     border: #fff 1px solid;
 }
 .button:active {
