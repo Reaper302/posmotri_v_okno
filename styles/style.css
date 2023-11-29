@@ -51,7 +51,7 @@ ol {
   max-height: 534px;
   display: flex;
   flex-direction: column;
-  width: 398px;
+  min-width: 398px;
   flex-grow: 1;
 }
 
@@ -100,7 +100,7 @@ ol {
 }
 
 .content__video-card-description-container {
-  width: 197px;
+  width: 100%;
   margin-top: 5px;
   margin-left: 3px;
 }
